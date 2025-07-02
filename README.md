@@ -37,8 +37,7 @@ Edit
 - Deploy using Streamlit or Flask
 - Add movie posters and links to IMDB
 
-## 📸 Demo
-(Add screenshots or GIFs if available)
+
 
 ## 💬 Feedback
 Feel free to raise an issue or open a pull request if you'd like to contribute!
